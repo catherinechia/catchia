@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+**[LinkedIn](www.linkedin.com/in/catherinechia)**
+
 ## Education
 - (In progress) M.Sc. Bioinformatics and Systems Biology, VU Amsterdam and University of Amsterdam
 - M.Sc. Biomedical Engineering (Neuroscience), RWTH Aachen
