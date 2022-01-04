@@ -6,17 +6,17 @@ permalink: /about/
 
 **[LinkedIn](www.linkedin.com/in/catherinechia)**
 
-## Education
+#### Education
 - (In progress) M.Sc. Bioinformatics and Systems Biology, VU Amsterdam and University of Amsterdam
 - M.Sc. Biomedical Engineering (Neuroscience), RWTH Aachen
 - B.Eng. Mechanical Engineering (Mechanical Design), Curtin University
 
 
-## Work
+#### Work
 - **Heopts**, Amsterdam. Healthcare operating room management using artificial intelligence 
 - **[AuMed](https://au-med.com)**. Medical image segmentation and 3D printing
 
 
-## Publications
+#### Publications
 - Chua et al, 2021. *3D-printed external cranial protection following decompressive craniectomy after brain injury: A pilot feasibility cohort study*, PLOS. [https://doi.org/10.1371/journal.pone.0258296](https://doi.org/10.1371/journal.pone.0258296)
 - Lim et al, 2016. *New Visible-Light Photoinitiating System for Improved Print Fidelity in Gelatin-Based Bioinks* [https://doi.org/10.1021/acsbiomaterials.6b00149](https://doi.org/10.1021/acsbiomaterials.6b00149)
