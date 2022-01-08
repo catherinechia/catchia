@@ -13,7 +13,7 @@ permalink: /about/
 
 
 #### Work
-- **Heopts**, Amsterdam. Healthcare operating room management using artificial intelligence 
+- **Heopts**, Amsterdam. Healthcare optimizations using artificial intelligence 
 - **[AuMed](https://au-med.com)**. Medical image segmentation and 3D printing
 
 
